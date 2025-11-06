@@ -63,7 +63,7 @@ main {
   padding: 10px;
   color: aliceblue;
   background-color: rgb(0, 0, 0);
-  margin: -52px;
+  margin: -80px;
   border-radius: 20px;
 }
 
@@ -415,4 +415,5 @@ nav.scrolled {
 
 #image{
   border-radius: 20px;
+
 }
